@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/adaptnxt/static/css/main.03e96e78.css",
+    "main.js": "/adaptnxt/static/js/main.34199865.js",
+    "index.html": "/adaptnxt/index.html",
+    "main.03e96e78.css.map": "/adaptnxt/static/css/main.03e96e78.css.map",
+    "main.34199865.js.map": "/adaptnxt/static/js/main.34199865.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03e96e78.css",
+    "static/js/main.34199865.js"
+  ]
+}
